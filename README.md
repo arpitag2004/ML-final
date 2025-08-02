@@ -30,9 +30,7 @@ Then open the notebook file (e.g. WorldHappinessClassifier.ipynb) in your browse
 3: Add the Dataset
 Make sure the dataset file is placed in the same folder as your notebook or in a data/ folder.
 File needed:
-
 WHR2018Chapter2OnlineData.csv
-
-▶️ Step 5: Run the Notebook
+4: Run the Notebook
 Click Cell > Run All to execute the notebook top-to-bottom.
-The models will train and display performance metrics and visualizations.
+The models will train and display performance metrics and visualizations!!!
